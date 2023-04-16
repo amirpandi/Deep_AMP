@@ -4,6 +4,7 @@ __pycache__/
 *$py.class
 *.DS_Store
 test.py
+train_gen_dummy.csv 
 
 # C extensions
 *.so
