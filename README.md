@@ -20,14 +20,9 @@ Bioactive peptides are key molecules in health and medicine. Deep learning holds
  python example.py
  ```
 
-## Workflow
-
-
-### Train models on your own data
-
-### Generate AMPs using trained models
-
 ## Supporting information for the paper
 
 30AMPs.txt is the sequence of functional de-novo peptides discovered and characterized in this work in FASTA format.
 500gen.txt is the sequence of peptides we built in the lab.
+biochem folder contains data for supplementary figures X.
+train_data folder contains data we used for model training. 
